@@ -1,0 +1,26 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font: inherit;
+    font-size: 100%;
+  }
+.form {
+    display: block;
+    text-align: center;
+    margin: 250px auto 0px auto;
+    border: 1px solid black;
+    width: 400px;
+}
+label, input {
+    margin: 20px 5px;
+
+}
+label {
+    font-size: large;
+}
+h1 {
+    font-size: xx-large;
+    font-weight: bold;
+}
